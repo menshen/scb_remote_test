@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SCBRemoteTest</string>
+    <string name="amount_formate_failed">The amout you entered does not meet the requirements. Please enter again!</string>
+    <string name="times_formate_failed">The time you entered does not meet the requirements. Please enter again!</string>
 </resources>
